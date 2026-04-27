@@ -1,5 +1,5 @@
 import asyncio
-import Keyboaed as kb
+import Keyboard as kb
 
 
 from aiogram import F, Bot, Dispatcher
